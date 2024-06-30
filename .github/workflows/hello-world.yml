@@ -6,4 +6,4 @@ runs-on: ubuntu-latest
 steps:
   - name: Echo Text
     run: |
-      echo "Hello World!"
+      echo " Hello World!"
